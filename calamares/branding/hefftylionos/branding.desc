@@ -5,14 +5,14 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  hefftorlinux
+componentName:  hefftorlionos
 
 # This selects between different welcome texts. When false, uses
 # the traditional "Welcome to the %1 installer.", and when true,
 # uses "Welcome to the Calamares installer for %1." This allows
 # to distinguish this installer from other installers for the
 # same distribution.
-welcomeStyleCalamares:   true
+welcomeStyleCalamares:   false
 
 # Should the welcome image (productWelcome, below) be scaled
 # up beyond its natural size? If false, the image does not grow
@@ -67,7 +67,7 @@ strings:
     shortVersion:        2.0
     versionedName:       Heffty LionOS
     shortVersionedName:  Heffty LionOS
-    bootloaderEntryName: Heffty LionOS
+    bootloaderEntryName: hefftorlinux
 #    productUrl:          https://ArcoLinux.info/
 #    supportUrl:          https://ArcoLinuxforum.com/
 #    knownIssuesUrl:      https://ArcoLinux.info/
