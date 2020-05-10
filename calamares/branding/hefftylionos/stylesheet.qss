@@ -37,5 +37,5 @@ The IDs are based on the object names in the C++ code.
 }
 
 #mainText{
-	font : bold 16px;
+	font : bold 15px;
 }

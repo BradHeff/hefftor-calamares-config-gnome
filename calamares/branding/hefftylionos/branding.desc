@@ -5,7 +5,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  hefftorlionos
+componentName:  hefftylionos
 
 # This selects between different welcome texts. When false, uses
 # the traditional "Welcome to the %1 installer.", and when true,
@@ -90,7 +90,7 @@ strings:
 #
 # These filenames can also use substitutions from os-release (see above).
 images:
-    productLogo:         "losmenu.png"
+    productLogo:         "logo.png"
     productIcon:         "losmenu.png"
     productWelcome:      "calamares-0.png"
 
