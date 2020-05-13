@@ -90,8 +90,8 @@ strings:
 #
 # These filenames can also use substitutions from os-release (see above).
 images:
-    productLogo:         "logo.png"
-    productIcon:         "losmenu.png"
+    productLogo:         "hefftyav.png"
+    productIcon:         "hefftyav.png"
     productWelcome:      "calamares-0.png"
 
 # The slideshow is displayed during execution steps (e.g. when the
@@ -121,7 +121,7 @@ slideshowAPI: 2
 # branding component also ships a stylesheet.qss. Then they are
 # the corresponding CSS attributes of #sidebarApp.
 style:
-   sidebarBackground:    "#666699"
-   sidebarText:          "#282828"
+   sidebarBackground:    "#282828"
+   sidebarText:          "#666699"
    sidebarTextSelect:    "#FFFFFF"
-   sidebarTextHighlight: "#D35400"
+   sidebarTextHighlight: "#D33135"
