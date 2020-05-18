@@ -67,7 +67,7 @@ strings:
     shortVersion:        2.0
     versionedName:       Heffty LionOS
     shortVersionedName:  Heffty LionOS
-    bootloaderEntryName: hefftorlinux
+    bootloaderEntryName: Heffty LionOS
 #    productUrl:          https://ArcoLinux.info/
 #    supportUrl:          https://ArcoLinuxforum.com/
 #    knownIssuesUrl:      https://ArcoLinux.info/

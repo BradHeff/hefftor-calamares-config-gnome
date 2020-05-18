@@ -1,20 +1,86 @@
-- name: "Accessories"
-  description: "Accessories"
+- name: "cheese"
+  description: "Take photos and videos with your webcam, with fun graphical effects"
   critical: false
   hidden: false
   selected: false
   packages:
     - cheese
+- name: "font-manager-git"
+  description: "Manage your fonts with ease."
+  critical: false
+  hidden: false
+  selected: false
+  packages:
     - font-manager-git
+- name: "galculator"
+  description: "GTK+ based scientific calculator"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
     - galculator
+- name: "flameshot"
+  description: "Powerful yet simple to use screenshot software"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
     - flameshot
-    - liferea
-    - mediainfo
-    - mcomix
+- name: "liferea"
+  description: "A desktop news aggregator for online news feeds and weblogs"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+      - liferea
+- name: "mediainfo"
+  description: "	Supplies technical and tag information about a video or audio file (CLI interface)"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+      - mediainfo
+- name: "mcomix"
+  description: "	A user-friendly, customizable image viewer specifically designed to handle comic books"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+      - mcomix
+- name: "pdfarranger"
+  description: "Helps merge or split PDF documents and rotate, crop and rearrange pages"
+  critical: false
+  hidden: false
+  selected: false
+  packages:      
     - pdfarranger
+- name: "plank"
+  description: "Elegant, simple, clean dock"
+  critical: false
+  hidden: false
+  selected: false
+  packages:      
     - plank
+- name: "Plank Themes"
+  description: "from Arco Linux"
+  critical: false
+  hidden: false
+  selected: false
+  packages:      
     - arcolinux-plank-themes-git
+- name: "screenkey"
+  description: "A screencast tool to display your keys inspired by Screenflick"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
     - screenkey-git
+- name: "xfburn"
+  description: "A simple CD/DVD burning tool based on libburnia libraries"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
     - xfburn
 - name: "File Manager"
   description: "Filemanager"
