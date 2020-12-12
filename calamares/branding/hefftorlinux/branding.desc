@@ -5,7 +5,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  hefftylionos
+componentName:  hefftorlinux
 
 # This selects between different welcome texts. When false, uses
 # the traditional "Welcome to the %1 installer.", and when true,
@@ -62,12 +62,12 @@ windowSize: 1100px,650px
 # are set to "true" (they can also be overridden).
 strings:
     productName:         "@{NAME}"
-    shortProductName:    Heffty LionOS
+    shortProductName:    Hefftorlinux
     version:             2.0
     shortVersion:        2.0
-    versionedName:       Heffty LionOS
-    shortVersionedName:  Heffty LionOS
-    bootloaderEntryName: Heffty LionOS
+    versionedName:       Hefftorlinux
+    shortVersionedName:  Hefftorlinux
+    bootloaderEntryName: Hefftorlinux
 #    productUrl:          https://ArcoLinux.info/
 #    supportUrl:          https://ArcoLinuxforum.com/
 #    knownIssuesUrl:      https://ArcoLinux.info/
