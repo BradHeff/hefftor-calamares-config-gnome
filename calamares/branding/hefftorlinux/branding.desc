@@ -90,8 +90,8 @@ strings:
 #
 # These filenames can also use substitutions from os-release (see above).
 images:
-    productLogo:         "hefftyav.png"
-    productIcon:         "hefftyav.png"
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
     productWelcome:      "calamares-0.png"
 
 # The slideshow is displayed during execution steps (e.g. when the
